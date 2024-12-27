@@ -8,7 +8,11 @@ import SectionWrapper from "./SectionWrapper";
 const CallToAction = () => {
   const { theme } = useTheme();
 
-  return <SectionWrapper id='cta' className=''></SectionWrapper>;
+  return (
+    <SectionWrapper id='cta' className=''>
+      <></>
+    </SectionWrapper>
+  );
 };
 
 export default CallToAction;
