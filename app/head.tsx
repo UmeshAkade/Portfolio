@@ -26,6 +26,7 @@ export default function Head() {
       />
       <link rel='canonical' href='https://umeshakade.vercel.app' />
       <meta name='author' content='Umesh Akade' />
+      <meta name="google-site-verification" content="S_gGQ9ENGA9SdxKfR3iwVKMt6kRpqgWjhCAwfzPV1Ss" />
       <meta name='language' content='English' />
       <meta name='twitter:card' content='summary' />
       <meta name='twitter:site' content='https://umeshakade.vercel.app' />
