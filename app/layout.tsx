@@ -17,6 +17,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang='en'>
+      <head>
+        <meta name="google-site-verification" content="S_gGQ9ENGA9SdxKfR3iwVKMt6kRpqgWjhCAwfzPV1Ss" />
+      </head>
       <body
         className={`${poppins.className} font-poppins bg-gray-100/50 dark:bg-grey-900 text-black dark:text-white overflow-x-hidden`}
       >
